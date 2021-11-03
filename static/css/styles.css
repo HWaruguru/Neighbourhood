@@ -41,7 +41,7 @@ a:focus {
 
 .navbar {
     padding: 20px 10px;
-    background-color: #35495e;
+    background-color: #45A29E;
     border: none;
     border-radius: 0;
     margin-bottom: 40px;
@@ -64,10 +64,10 @@ span {
     align-items: stretch;
 }
 .tt{
-    color:#1a3e59;
+    color:#1F2833;
 }
 .hpost{
-   background-color:#1a3e59;
+   background-color:#1F2833;
    color: white;
 }
 .poster{
@@ -78,7 +78,7 @@ span {
     min-width: 250px;
     max-width: 250px;
     padding-right:10px;
-    background: #1a3e59;
+    background: #1F2833;
     color: #fff;
     position: -webkit-sticky;
     position: sticky;
@@ -152,7 +152,7 @@ span {
 }
 
 #sidebar ul li a:hover {
-    color: teal;
+    color: #45A29E;
     background: #fff;
 }
 
@@ -250,4 +250,7 @@ ul.CTAs a {
     #sidebarCollapse span {
         display: none;
     }
+}
+form {
+    color: white;
 }
