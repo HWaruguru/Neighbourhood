@@ -254,3 +254,7 @@ ul.CTAs a {
 form {
     color: white;
 }
+
+.forms label {
+    color: black;
+}
